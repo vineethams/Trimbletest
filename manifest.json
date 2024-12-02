@@ -1,7 +1,7 @@
 {
   "icon": "https://components.stage.connect.trimble.com/trimble-connect-project-workspace-api/logo192.png",
   "title": "Test app",
-  "url": "https://vineethams.github.io/trimblemp/trimchumk.html",
+  "url": "https://vineethams.github.io/Trimbletest/test.html",
   "description": "Export Pdfs to excel",
   "configCommand": "do_config",
   "enabled": true
